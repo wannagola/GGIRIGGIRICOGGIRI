@@ -1,0 +1,3 @@
+# Sound Effects
+Place your sound effect files here:
+- tickle-sound.mp3 (간지럼 반응 소리, optional - Web Audio API로 합성 가능)
